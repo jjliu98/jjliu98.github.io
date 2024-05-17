@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://jjliu98.github.io/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://jjliu98.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>十⁸⁹</title>
+    <link>https://jjliu98.github.io/</link>
+    <description>十⁸⁹ - 隔牖风惊竹，开窗雪满山</description>
+    <language>zh-CN</language>
+    <pubDate>Fri, 17 May 2024 02:59:14 GMT</pubDate>
+    <lastBuildDate>Fri, 17 May 2024 02:59:14 GMT</lastBuildDate>
+    <generator>@vuepress/plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <image>
+      <title>十⁸⁹</title>
+      <url>https://jjliu98.github.io/pwa/72.png</url>
+      <link>https://jjliu98.github.io/</link>
+    </image>
+    <item>
+      <title>留言板</title>
+      <link>https://jjliu98.github.io/about/guestbook.html</link>
+      <guid>https://jjliu98.github.io/about/guestbook.html</guid>
+      <source url="https://jjliu98.github.io/rss.xml">留言板</source>
+      <description>留言板 ™ 有什麽想説的？ 有什麽想問的？ 有什麽想吐槽的？ 可以在下面留言... @十⁸⁹。</description>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<div class="hint-container info">
+<p class="hint-container-title">™</p>
+<div style="text-align:center">
+<p>有什麽想説的？</p>
+<p>有什麽想問的？</p>
+<p>有什麽想吐槽的？</p>
+<p>可以在下面留言...</p>
+</div>
+<div style="text-align:right">
+<p><a href="https://github.com/jjliu98" target="_blank" rel="noopener noreferrer">@十⁸⁹</a>。</p>
+</div>
+</div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>关于我</title>
+      <link>https://jjliu98.github.io/about/me.html</link>
+      <guid>https://jjliu98.github.io/about/me.html</guid>
+      <source url="https://jjliu98.github.io/rss.xml">关于我</source>
+      <description>关于我 非典型程序员。热爱编程。 关于爱好 写代码给我带来过很多快乐，也曾在我内心最悲伤的时候陪伴我走出阴影。 经常会突发奇想，喜欢自己设计构想，然后自己动手实现的那种成就感。写出来的东西被大家认可也会给我带来极大的满足感。 喜欢电影、游戏、美食、阅读和思考；喜欢创造，喜欢看着自己亲手建立的东西一点点完善。 关于理想 愿世界和平，愿所有的种子都能开花结...</description>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<p>非典型程序员。热爱编程。</p>
+<h2>关于爱好</h2>
+<p>写代码给我带来过很多快乐，也曾在我内心最悲伤的时候陪伴我走出阴影。</p>
+<p>经常会突发奇想，喜欢自己设计构想，然后自己动手实现的那种成就感。写出来的东西被大家认可也会给我带来极大的满足感。</p>
+<p>喜欢电影、游戏、美食、阅读和思考；喜欢创造，喜欢看着自己亲手建立的东西一点点完善。</p>
+<h2>关于理想</h2>
+<p>愿世界和平，愿所有的种子都能开花结果，愿有情人终成眷属，愿好人一生平安。</p>
+<p>但愿望终归只是愿望，我唯一能做的事情就是在目之所及之处做到最好，在自己能力范围之内发挥自己所长帮助更多的人。</p>
+<h2>关于本站</h2>
+<p>本站采用<br>
+<a href="https://v2.vuepress.vuejs.org" target="_blank" rel="noopener noreferrer">VuePress</a> 搭建，<br>
+基于主题 <a href="https://theme-hope.vuejs.press" target="_blank" rel="noopener noreferrer">ThemeHope</a> 由个人魔改而成。</p>
+<p>关于更多信息可阅读 <a href="/about/website.html" target="_blank">关于本站</a></p>
+<p>在日常的工作和学习中积累了经验、知识和技巧，他们被我用 md 记录了下来存储在 Github 的私人仓库之上。</p>
+<p>并且还有一些想法，想要表达的思想和观点等。我不太愿意将这些东西公布在各种公众平台之上，因为当我的知识变成了数据，那么这些数据的安全和版权应当由我自己负责，</p>
+<p>写博客，并不仅仅只是为了表达，更是一种<code>记忆</code>和<code>修身养性</code>的方式，让自己浮躁的生活跟心情沉淀下来的一种手段。我希望过个七年八年的，再回首打开这个站点的时候，它能变成一种财富和寄托。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>关于本站</title>
+      <link>https://jjliu98.github.io/about/website.html</link>
+      <guid>https://jjliu98.github.io/about/website.html</guid>
+      <source url="https://jjliu98.github.io/rss.xml">关于本站</source>
+      <description>关于本站 缘起 我最初学编程的目的就是为了能够拥有一个属于自己的网站，我觉得那会很酷，仿佛自己的心声可以被全世界所听到。我觉得程序员很酷，因为我觉得每一个程序员都拥有足以改变世界的力量。 时代变化如此之快，还没等我自己的第一行代码上线运行，微博，知乎，简书等各大平台如同雨后春笋一样拔地而起，互联网时代就在我身边悄然而至，这些应用也在悄然的改变我们每一个...</description>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<h2>缘起</h2>
+<p>我最初学编程的目的就是为了能够拥有一个属于自己的网站，我觉得那会很酷，仿佛自己的心声可以被全世界所听到。我觉得程序员很酷，因为我觉得每一个程序员都拥有足以改变世界的力量。</p>
+<p>时代变化如此之快，还没等我自己的第一行代码上线运行，微博，知乎，简书等各大平台如同雨后春笋一样拔地而起，互联网时代就在我身边悄然而至，这些应用也在悄然的改变我们每一个人的思考和生活方式。时光荏苒，回头再望发现自己只不过是沧海一粟。</p>
+<h2>缘落</h2>
+<p>我们细数一下，在当前时代如果你想从零搭建一个自己可以完全操控的稳定的站点，需要哪些知识和技巧:</p>
+<ol>
+<li>通过域名商购买符合自己心意的域名。</li>
+<li>通过云计算服务商购买符合自己心意的服务器（此时你需要最基本的计算机基础知识，和 Linux 最基本的操作技巧以及处理操作系统常见问题的能力。）</li>
+<li>了解基本的 HTTP 原理。</li>
+<li>掌握 HTML、javascript、css 网页编辑语言，掌握常见的开发调试技巧。</li>
+<li>如果你想让数据流动起来，你需要掌握一门服务器编程语言和最基本的数据库操作使用方法。</li>
+</ol>
+<blockquote>
+<p>查看<a href="/favorite/links/document.html" target="_blank">本站用到的相关技术</a>，除此之外，网站的运营还涉及到 SEO ，流量推广，PWA 等等知识。如果你在中国大陆，想让自己的站点稳定的运行，还得了解基本的法律法规和管理条例以及备案技巧。</p>
+</blockquote>
+<p>如果你想让它变得内容变得更加丰富，界面变得更加生动，访问速度更快，或者功能性更强。<br>
+你还得深入掌握更多更加专业的知识或者技巧。如果想要让站点能够与时俱进，得保证技术的更迭和软件的维护。随着功能越来越多，所需要的各种专业知识也将更多。</p>
+<blockquote>
+<p>当然我们这里的讨论排除掉各种站点的速成框架以及集成化的方案，这种囫囵吞枣式的搭建方式都带有铜臭味。毕竟作为程序员，对技术还是需要一点点小资品位的。</p>
+</blockquote>
+<p>大到淘宝、Facebook，小到个人站点，他们所需要的最基本的技术和配置都差不多，只是所需要的深浅不太一样。随着技术大牛们的努力和开源世界的慷慨，这些事情越来越容易。</p>
+<h2>需求</h2>
+<p>在最初，我是采用下面这种方式去记录自己的日常工作和学习的:</p>
+<figure><figcaption>这是图片</figcaption></figure>
+<p>后来还用过飞书、Excel、各种 ToDo 软件等。还是觉得 <code>Vscode + Markdown</code> 的方式最好。方便阅读、方便修改、简单、兼容性好。一次编写可以很轻松的在各种格式下进行转换，属于文档当中的【基本单元】。不管是 Word、还是 Excel，如果没有特定的软件读取则无法访问，并且由于商业竞争，它们对其它软件的兼容性都很差强人意，格式转换时也会出现排版混乱等情况。但是 Markdown 则不同，它排版简单，使用方便，长什么样子完全取决于阅读器的主题，不同主题下可以可以拥有不同的观感，排版也不会混乱。包括我的个人资料，文件，文档，心得体会，和一些日常的小记录等我全都采用 md 去记录的。</p>
+<p><a href="https://markdown.com.cn" target="_blank" rel="noopener noreferrer">Markdown</a> 中图片的处理会比较麻烦，传统的例如 word 等文件格式它会将图片一起打包到文件中，但是在 md 当中图片更像是文档的<code>依赖文件</code>，是游离于文字之外的东西，除非你使用网络图片。我研究了各种图床，但是都存在各种限制。免费的图床很多，但是想要使用方便、免费、访问速度，稳定安全等因素兼得，实在是太难了。于是我最终选择了自己开发一个图床服务。</p>
+<h2>Hexo</h2>
+<p><a href="https://hexo.io/" target="_blank" rel="noopener noreferrer">Hexo</a> ，这是我在经过认真对比后采用的博客构建工具，主题丰富，生态完善，采用 md 编写内容，基于 node 和 npm ，上手简单快捷。但是用起来总有不舒服的点:</p>
+<blockquote>
+<p>热更新速度慢，静态资源路径的识别无法跟编辑器很好的兼容，框架想要进行二次编码和修改只能使用最原始的 css 和 js 覆盖，集成 less 或者 ts 等现代前端工具需要自己编写和配置很多东西。</p>
+</blockquote>
+<p><a href="http://jjliu98.github.io" target="_blank" rel="noopener noreferrer">Hexo 制作的博客</a> <br>
+<a href="https://github.com/mo7Code/hexo-blog" target="_blank" rel="noopener noreferrer">Hexo 博客项目源码</a></p>
+<h2>VuePress</h2>
+<p>后来发现了 <a href="https://v2.vuepress.vuejs.org" target="_blank" rel="noopener noreferrer">VuePress</a> ，在仔细体验后，大爱！ 因为是基于 vite ，所以可以做到在编写 md 时几乎无感的热更新速度，保存之后页面无刷新渲染，使用体验媲美 VSCode 的本地预览！</p>
+<p>基于 Vue 渲染引擎，Vite 的编译和打包，TypeScript，Sass 支持，包括 Vue 组件等。博客的开发体验跟 WebApp 达成了一致，比 Hexo 高出了好几个档次。虽然生态尚不成熟，且 2.0 尚未发布稳定版本，但是却无法挡住其锋芒。</p>
+<p>缺点是主题和插件稀少，很多东西都得自己手动开发。</p>
+<h2>vuepress-theme-hope</h2>
+<p>自己编写一款主题需要的细节和工作量是巨大的，我并不想投入那么多的时间和精力在这个上面。但是 VuePress 原本的默认主题又太过简陋。</p>
+<p>在找寻许久后，我相中了 <a href="https://theme-hope.vuejs.press" target="_blank" rel="noopener noreferrer">ThemeHope</a> 这款主题，它的作者是 VuePress 团队的成员，其更新速度和稳定性以及扩展性从基因层面就得到了保证。</p>
+<p>于是基于 Hope 主题进行了一些细微的调教，自己写了一些功能模块，才有了本站当前的模样。</p>
+<p>在这里感谢 <a href="https://mrhope.site" target="_blank" rel="noopener noreferrer">𝓜𝓻.𝓗𝓸𝓹𝓮</a> 为我们带来这么棒的主题及其配套的插件。</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,7 @@
+import{f as o,A as t,r as c,o as r,M as a,w as p,b as l}from"./app-CrB9mOEy.js";import{_ as i}from"./plugin-vue_export-helper-DlAUqK2U.js";const d="1jjliu98-blog",u="1.6.0",v="十⁸⁹的个人博客",h="MIT",_="module",m={build:"vuepress-vite build src",dev:"vuepress-vite dev src --clean-cache",preview:"go run ./shell/main.go",update:"pnpm dlx vp-update",deploy:"bash ./shell/deploy.sh",sync:"bash ./shell/sync.sh",open:"bash ./shell/open.sh",weekly:"node ./_shell/weekly.js"},f={"@vuepress/bundler-vite":"2.0.0-rc.10","@vuepress/plugin-pwa":"2.0.0-rc.28",vue:"^3.4.27",vuepress:"2.0.0-rc.10","vuepress-theme-hope":"2.0.0-rc.43"},y={"@vue/repl":"^4.1.2","@vuepress/plugin-feed":"2.0.0-rc.28","@waline/client":"^3.2.0",aplayer:"^1.10.1","art-template":"^4.13.2",axios:"^1.6.8","chart.js":"^4.4.2",dayjs:"^1.11.11",echarts:"^5.5.0","flowchart.ts":"^3.0.0",store:"^2.0.12","vue-router":"^4.3.2","vuepress-plugin-search-pro":"2.0.0-rc.43"},g={name:d,version:u,description:v,license:h,type:_,scripts:m,devDependencies:f,dependencies:y},b=l("div",{class:"none"},"版本打印",-1),w=`   
+███╗   ███╗ ██████╗ ███████╗
+████╗ ████║██╔═══██╗╚════██║
+██╔████╔██║██║   ██║    ██╔╝
+██║╚██╔╝██║██║   ██║   ██╔╝ 
+██║ ╚═╝ ██║╚██████╔╝   ██║  
+╚═╝     ╚═╝ ╚═════╝    ╚═╝`,k=o({__name:"PrintVersion",setup(x){const e=()=>{console.info(w+g.version)};return t(()=>{e()}),(s,P)=>{const n=c("ClientOnly");return r(),a(n,null,{default:p(()=>[b]),_:1})}}}),D=i(k,[["__file","PrintVersion.vue"]]);export{D as default};
